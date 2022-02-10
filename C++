@@ -1,0 +1,6 @@
+enter operator + or - or * or/ :+
+enter two operators:5 4
+9
+
+...Program finished with exit code 0
+Press ENTER to exit console.
